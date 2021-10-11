@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+**/*.iml
+target/
+settings.xml/
+LOG_PATH_IS_UNDEFINED/
+logs/
+tmp/
+src/test/resources/data.properties
